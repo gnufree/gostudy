@@ -1,0 +1,22 @@
+2020-01-07 16:30:00.071 DEBUG (file.go:logger.(*FileLogger).Debug:69) user id[32121] is come form china
+2020-01-07 16:32:19.665 DEBUG (file.go:logger.(*FileLogger).Debug:69) user id[32121] is come form china
+2020-01-07 16:32:19.665 DEBUG (file.go:logger.(*FileLogger).Trace:92) user id[32121] is come form china
+2020-01-07 16:32:19.665 DEBUG (file.go:logger.(*FileLogger).Info:97) user id[32121] is come form china
+2020-01-07 16:37:15.675 DEBUG (file.go:logger.(*FileLogger).Debug:69) user id[32121] is come form china
+2020-01-07 16:37:15.676 TRACE (file.go:logger.(*FileLogger).Trace:92) user id[32121] is come form china
+2020-01-07 16:37:15.676 INFO (file.go:logger.(*FileLogger).Info:96) user id[32121] is come form china
+2020-01-07 16:39:01.681 DEBUG (file.go:logger.(*FileLogger).Debug:69) user id[32121] is come form china
+2020-01-07 16:39:01.681 TRACE (file.go:logger.(*FileLogger).Trace:92) Trace id [32121] is come form china
+2020-01-07 16:39:01.681 INFO (file.go:logger.(*FileLogger).Info:96) info log [32121]
+2020-01-07 16:57:06.751 DEBUG (file.go:logger.(*FileLogger).Debug:55) user id[32121] is come form china
+2020-01-07 16:57:06.752 TRACE (file.go:logger.(*FileLogger).Trace:81) Trace id [32121] is come form china
+2020-01-07 16:57:06.752 INFO (file.go:logger.(*FileLogger).Info:88) info log [32121]
+2020-01-07 17:08:04.892 DEBUG (file.go:logger.(*FileLogger).Debug:55) user id[32121] is come form china
+2020-01-07 17:08:04.893 TRACE (file.go:logger.(*FileLogger).Trace:81) Trace id [32121] is come form china
+2020-01-07 17:08:04.893 INFO (file.go:logger.(*FileLogger).Info:88) info log [32121]
+2020-01-07 17:09:00.805 DEBUG (file.go:logger.(*FileLogger).Debug:55) user id[32121] is come form china
+2020-01-07 17:09:00.806 TRACE (file.go:logger.(*FileLogger).Trace:81) Trace id [32121] is come form china
+2020-01-07 17:09:00.806 INFO (file.go:logger.(*FileLogger).Info:88) info log [32121]
+2020-01-07 17:09:20.502 DEBUG (logger_test.go:logger.TestFileLogger:9) user id[32121] is come form china
+2020-01-07 17:09:20.502 TRACE (logger_test.go:logger.TestFileLogger:10) Trace id [32121] is come form china
+2020-01-07 17:09:20.502 INFO (logger_test.go:logger.TestFileLogger:11) info log [32121]
